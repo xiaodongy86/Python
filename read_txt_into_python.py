@@ -30,3 +30,6 @@ print(str(i))
 # 1096  git config core.editor "nano"
 # 1097  git config --list
 # 1098  nano read_txt_into_python.py 
+#git branch
+#git remote -v
+#git push origin master
